@@ -15,3 +15,8 @@ a {
     color: darkslateblue;
     font-style: oblique
 }
+
+body {
+margin: auto;
+  max-width: 900px;
+}
